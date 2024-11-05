@@ -1,0 +1,7 @@
+Estructura inicial
+
+npx create-react-app estructura-inicial
+
+# Instalar React Router
+npm install react-router-dom
+
