@@ -2,7 +2,7 @@ const Dashboard = () => {
 
   return (
       <div>
-        BIENVENIDO
+        BIENVENIDO (HACER ENTORNO DE TRABAJO)
       </div>
   )
 }
